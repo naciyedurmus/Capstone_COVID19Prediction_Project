@@ -17,4 +17,4 @@ The patients who visited the Hospital Israelita Albert Einstein in So Paulo, Bra
 
 ## D. Running Script Instructions: 
 1. Setup requirements.txt
-2. Open `PredictCovid.ipynb` file. 
+2. Open `Covid19 Diagnosis` file. 
